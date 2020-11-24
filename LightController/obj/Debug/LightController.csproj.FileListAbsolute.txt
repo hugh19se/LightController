@@ -1,0 +1,39 @@
+C:\Users\hughe\Desktop\final Programs\joefjioeoi\LightController\LightController\bin\Debug\lightController.exe.config
+C:\Users\hughe\Desktop\final Programs\joefjioeoi\LightController\LightController\bin\Debug\lightController.exe.manifest
+C:\Users\hughe\Desktop\final Programs\joefjioeoi\LightController\LightController\bin\Debug\lightController.application
+C:\Users\hughe\Desktop\final Programs\joefjioeoi\LightController\LightController\bin\Debug\lightController.exe
+C:\Users\hughe\Desktop\final Programs\joefjioeoi\LightController\LightController\bin\Debug\lightController.pdb
+C:\Users\hughe\Desktop\final Programs\joefjioeoi\LightController\LightController\bin\Debug\BlinkStickDotNet.dll
+C:\Users\hughe\Desktop\final Programs\joefjioeoi\LightController\LightController\bin\Debug\LibUsbDotNet.dll
+C:\Users\hughe\Desktop\final Programs\joefjioeoi\LightController\LightController\bin\Debug\HidSharp.dll
+C:\Users\hughe\Desktop\final Programs\joefjioeoi\LightController\LightController\bin\Debug\BlinkStickDotNet.pdb
+C:\Users\hughe\Desktop\final Programs\joefjioeoi\LightController\LightController\bin\Debug\LibUsbDotNet.pdb
+C:\Users\hughe\Desktop\final Programs\joefjioeoi\LightController\LightController\bin\Debug\HidSharp.pdb
+C:\Users\hughe\Desktop\final Programs\joefjioeoi\LightController\LightController\obj\Debug\LightController.csprojAssemblyReference.cache
+C:\Users\hughe\Desktop\final Programs\joefjioeoi\LightController\LightController\obj\Debug\lightController.Form1.resources
+C:\Users\hughe\Desktop\final Programs\joefjioeoi\LightController\LightController\obj\Debug\lightController.Properties.Resources.resources
+C:\Users\hughe\Desktop\final Programs\joefjioeoi\LightController\LightController\obj\Debug\LightController.csproj.GenerateResource.cache
+C:\Users\hughe\Desktop\final Programs\joefjioeoi\LightController\LightController\obj\Debug\lightController.exe.manifest
+C:\Users\hughe\Desktop\final Programs\joefjioeoi\LightController\LightController\obj\Debug\lightController.application
+C:\Users\hughe\Desktop\final Programs\joefjioeoi\LightController\LightController\obj\Debug\LightController.csproj.CopyComplete
+C:\Users\hughe\Desktop\final Programs\joefjioeoi\LightController\LightController\obj\Debug\lightController.exe
+C:\Users\hughe\Desktop\final Programs\joefjioeoi\LightController\LightController\obj\Debug\lightController.pdb
+C:\Users\hugh19\Downloads\LightController\LightController\bin\Debug\lightController.exe.config
+C:\Users\hugh19\Downloads\LightController\LightController\bin\Debug\lightController.exe.manifest
+C:\Users\hugh19\Downloads\LightController\LightController\bin\Debug\lightController.application
+C:\Users\hugh19\Downloads\LightController\LightController\bin\Debug\lightController.exe
+C:\Users\hugh19\Downloads\LightController\LightController\bin\Debug\lightController.pdb
+C:\Users\hugh19\Downloads\LightController\LightController\bin\Debug\LibUsbDotNet.dll
+C:\Users\hugh19\Downloads\LightController\LightController\bin\Debug\HidSharp.dll
+C:\Users\hugh19\Downloads\LightController\LightController\bin\Debug\BlinkStickDotNet.pdb
+C:\Users\hugh19\Downloads\LightController\LightController\bin\Debug\LibUsbDotNet.pdb
+C:\Users\hugh19\Downloads\LightController\LightController\bin\Debug\HidSharp.pdb
+C:\Users\hugh19\Downloads\LightController\LightController\obj\Debug\LightController.csprojResolveAssemblyReference.cache
+C:\Users\hugh19\Downloads\LightController\LightController\obj\Debug\lightController.Form1.resources
+C:\Users\hugh19\Downloads\LightController\LightController\obj\Debug\lightController.Properties.Resources.resources
+C:\Users\hugh19\Downloads\LightController\LightController\obj\Debug\LightController.csproj.GenerateResource.Cache
+C:\Users\hugh19\Downloads\LightController\LightController\obj\Debug\LightController.csproj.CoreCompileInputs.cache
+C:\Users\hugh19\Downloads\LightController\LightController\obj\Debug\lightController.exe.manifest
+C:\Users\hugh19\Downloads\LightController\LightController\obj\Debug\lightController.application
+C:\Users\hugh19\Downloads\LightController\LightController\obj\Debug\lightController.exe
+C:\Users\hugh19\Downloads\LightController\LightController\obj\Debug\lightController.pdb
